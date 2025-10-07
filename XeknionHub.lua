@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blackowl1231/Z3US/refs/heads/main/Games/other.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/007n7scripts/RivalsScript/refs/heads/main/README.md"))()
 local XeknionLoader = Instance.new("ScreenGui")
 XeknionLoader.Name = "Xeknion Loader"
 XeknionLoader.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
